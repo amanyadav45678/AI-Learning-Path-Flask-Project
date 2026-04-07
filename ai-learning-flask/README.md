@@ -483,4 +483,4 @@ You can create accounts through the signup form. For quick testing, register wit
 
 ---
 
-*Made with ❤️ by Team UIC — Aman Kumar, Anshita Goel, Darpan Yaduvanshi*
+*Made with — Aman Yadav*
