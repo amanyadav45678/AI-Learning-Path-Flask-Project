@@ -3,7 +3,7 @@
 > **An intelligent, role-based e-learning platform** powered by Google Gemini AI and Firebase. Built for students and teachers with personalized quizzes, AI chatbot, learning path generation, and smart note analysis.
 
 **Team:** Aman  Yadav
-**Institution:** 
+**Institution:** UIC 
 
 ---
 
